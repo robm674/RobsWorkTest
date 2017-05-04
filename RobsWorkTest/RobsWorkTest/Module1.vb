@@ -2,6 +2,9 @@
 
     Sub Main()
         Console.WriteLine("This is MAAAAAAAAAAAAASTAH")
+        Console.WriteLine("This is MAAAAAAAAAAAAASTAH")
+        Console.WriteLine("This is MAAAAAAAAAAAAASTAH")
+        Console.WriteLine("This is MAAAAAAAAAAAAASTAH")
     End Sub
 
 End Module
